@@ -26,7 +26,7 @@ Sales teams at a retail organization needed to move from static Excel reports to
 ---
 
 ## 📷 Dashboard Preview
-*Include screenshots of the dashboard here*
+
 **Sales overview**
 
 <img width="1221" height="700" alt="SalesOverview" src="https://github.com/user-attachments/assets/f17ea6cf-06a7-4bff-90c0-0aa0c6dc5cc0" />
