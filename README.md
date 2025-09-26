@@ -43,5 +43,5 @@ Sales teams at a retail organization needed to move from static Excel reports to
 ---
 
 ## 🌐 View the Project
-- 🔗 **Interactive Dashboard (Power BI Online)**: https://tinyurl.com/4pshkh3d
+- 🔗 **Interactive Dashboard (Power BI Online)**: https://tinyurl.com/4bbvdrb7
 
